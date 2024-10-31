@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.com.fiap.notificacao_acidentes_test_automatizacao.NotificacaoAcidentesTestAutomatizacaoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.02 s -- in br.com.fiap.notificacao_acidentes_test_automatizacao.NotificacaoAcidentesTestAutomatizacaoApplicationTests
